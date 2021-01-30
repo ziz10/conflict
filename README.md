@@ -1,0 +1,2 @@
+# conflict
+conflicts for merge
